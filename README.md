@@ -1,3 +1,3 @@
 ## Connect Quattro
 
-Simple Connect 4 with JQuery - a throwback to DEV Bootcamp
+Simple Connect4 UI built w JQuery / Javascript.
